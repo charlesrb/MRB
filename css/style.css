@@ -1,8 +1,11 @@
+.index {
+	background: url("../images/background.jpg")  no-repeat center fixed;
+    background-size:cover;
+}
+
 body {
 	font-family: "Open Sans";
-	background: url("../images/background.jpg")  no-repeat center fixed;
- 	
-    background-size:cover;
+	background-color:#e9dcd2;
 }
 
 
@@ -50,3 +53,6 @@ body {
   color: white;
 }
 
+.contact {
+	margin-top:150px;
+}
